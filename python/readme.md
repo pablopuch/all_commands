@@ -21,7 +21,7 @@ source ./env/scripts/activate
 Windows
 
 ```bash
-.\env\Scripts\activate
+.\env\Scripts\Activate
 ```
 Deactivate
 
